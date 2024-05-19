@@ -18,3 +18,11 @@ h1 {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
+
+#name-input:hover {
+  border: 1px solid #000;
+}
+
+#name-input:active {
+  border: 1px solid #808080;
+}
